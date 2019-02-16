@@ -2,7 +2,7 @@ package GNode_DFS;
 
 import java.util.ArrayList;
 import java.util.Stack;
-import CISCOGNode_DFS.GNode;
+import GNode_DFS.GNode;
 
 // Define a class which is implemented from GNode interface
 public class GraphDFSRecursive implements GNode {
